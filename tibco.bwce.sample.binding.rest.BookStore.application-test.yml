@@ -1,0 +1,4 @@
+configuration:
+  url: #PostgreSQL.credentials.url#
+  username: #PosgreSQL.credentials.username#
+  password: #PosgreSQL.credentials.password#
